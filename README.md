@@ -1,1 +1,1 @@
-# traintime
+Traintime is an application created where users can enter information on trains and get real time data on their next arrivals.
