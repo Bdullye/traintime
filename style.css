@@ -1,0 +1,26 @@
+.jumbotron {
+    text-align: center;
+    color: black;
+}
+
+.table {
+    color: blue;
+}
+
+.display1 {
+    color: red;
+    font-size: 60px;
+}
+
+body {
+    background-image: url("https://timedotcom.files.wordpress.com/2018/04/alabama-poop-train.jpg");
+}
+
+.form-group {
+    color:blue;
+}
+
+h2 {
+    color:blue;
+    text-decoration: underline;
+}
